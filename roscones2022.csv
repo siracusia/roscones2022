@@ -1,0 +1,701 @@
+nombre,edad,region,fecha_compra,genero,roscones_comprados,preferencia,precio_roscon
+Ebony,79,Illes Balears,18-03-22,hombre,3,nata,€32.16
+Autumn,56,Canarias,26-12-22,mujer,1,sin relleno,€7.69
+Blaze,50,Galicia,01-05-22,hombre,1,mixto,€13.20
+Patricia,93,Cantabria,17-03-22,mujer,4,trufa,€35.19
+Calvin,86,La Rioja,04-04-22,mujer,1,nata,€10.11
+Carl,99,Galicia,22-10-22,mujer,3,crema,€39.51
+Jonah,45,Canarias,26-04-22,mujer,5,trufa,€7.13
+Len,96,Navarra,10-03-22,mujer,0,nata,€1.06
+Malcolm,76,Castilla y León,24-08-22,hombre,3,trufa,€2.84
+Patricia,44,Comunitat Valenciana,09-01-22,mujer,1,nata,€4.66
+Ora,70,Melilla,28-03-22,hombre,3,sin relleno,€40.30
+Dennis,97,Galicia,19-11-22,mujer,4,trufa,€8.31
+Beck,80,Murcia,22-12-22,hombre,2,mixto,€47.12
+Beatrice,27,Galicia,08-11-22,mujer,5,trufa,€3.52
+Alika,88,La Rioja,19-12-22,mujer,4,sin relleno,€4.08
+Fallon,35,Madrid,28-12-22,hombre,5,nata,€48.76
+Duncan,53,Principado de Asturias,14-08-22,mujer,3,mixto,€30.69
+Chastity,61,La Rioja,19-04-22,hombre,2,sin relleno,€4.06
+Raphael,80,Melilla,10-05-22,mujer,4,crema,€34.99
+Graiden,66,La Rioja,15-11-22,mujer,5,sin relleno,€46.50
+Kenyon,97,Euskadi,13-11-22,hombre,5,crema,€43.47
+Dara,66,Extremadura,26-07-22,hombre,2,sin relleno,€14.86
+Ingrid,50,Canarias,22-06-22,mujer,4,nata,€37.02
+Justin,27,Galicia,11-04-22,mujer,4,nata,€26.47
+Catherine,97,Illes Balears,16-04-22,mujer,2,trufa,€18.12
+Willow,53,Euskadi,14-11-22,mujer,3,sin relleno,€40.86
+Maxine,22,Aragón,08-07-22,hombre,2,sin relleno,€22.81
+Tatum,29,Comunitat Valenciana,05-11-22,mujer,3,sin relleno,€17.36
+Kiona,34,Aragón,21-01-22,mujer,1,crema,€40.74
+Ralph,86,Euskadi,13-08-22,hombre,1,sin relleno,€4.79
+Xaviera,93,Castilla - La Mancha,25-10-22,mujer,2,mixto,€11.51
+Russell,46,Canarias,18-03-22,mujer,1,nata,€44.02
+Risa,48,Canarias,05-02-22,hombre,0,nata,€0.42
+Lillian,36,Castilla - La Mancha,17-12-22,mujer,2,trufa,€33.33
+Jesse,98,Euskadi,10-02-22,hombre,4,crema,€1.81
+Darryl,36,Castilla - La Mancha,30-07-22,mujer,5,nata,€26.27
+Xandra,73,Catalunya,10-03-22,mujer,4,trufa,€18.26
+Wade,66,Murcia,09-03-22,hombre,4,crema,€8.67
+Rashad,34,Navarra,02-12-22,hombre,2,trufa,€3.92
+Danielle,80,Ceuta,26-08-22,hombre,3,sin relleno,€19.49
+Amelia,37,Madrid,30-07-22,mujer,3,mixto,€31.69
+Anthony,35,Madrid,14-05-22,hombre,3,trufa,€48.22
+Donovan,60,Euskadi,05-04-22,mujer,4,trufa,€42.39
+Debra,19,Principado de Asturias,01-06-22,hombre,2,trufa,€25.61
+Gareth,82,Principado de Asturias,28-02-22,mujer,0,nata,€43.05
+Hannah,43,Madrid,26-01-22,mujer,4,mixto,€20.81
+Chastity,69,Navarra,25-01-22,hombre,3,nata,€10.67
+Malachi,69,Castilla y León,27-03-22,hombre,5,sin relleno,€10.98
+Chastity,26,Ceuta,19-08-22,mujer,1,crema,€30.20
+Tucker,22,Comunitat Valenciana,15-10-22,hombre,3,trufa,€0.77
+Carla,97,Ceuta,06-03-22,mujer,4,mixto,€20.56
+Mara,72,Castilla - La Mancha,05-12-22,hombre,4,trufa,€30.77
+Alan,37,Castilla y León,04-06-22,hombre,4,crema,€35.16
+Fay,49,Canarias,12-10-22,mujer,5,trufa,€0.87
+Wesley,46,Euskadi,16-09-22,hombre,2,trufa,€21.60
+Debra,44,Catalunya,26-09-22,hombre,4,sin relleno,€22.61
+Tyrone,48,Euskadi,03-12-22,mujer,2,crema,€46.75
+Trevor,19,La Rioja,30-12-22,hombre,5,sin relleno,€46.05
+Oliver,30,Aragón,22-08-22,hombre,3,mixto,€22.55
+Steel,41,Andalucía,03-03-22,mujer,1,sin relleno,€32.64
+Trevor,44,Ceuta,25-04-22,mujer,2,trufa,€35.56
+Cameron,55,La Rioja,13-05-22,mujer,3,mixto,€31.97
+Ella,42,Murcia,12-11-22,mujer,1,trufa,€25.69
+Ivory,59,Principado de Asturias,18-11-22,mujer,2,trufa,€22.95
+Brenda,95,Principado de Asturias,08-08-22,hombre,3,trufa,€31.15
+Amir,66,Madrid,01-09-22,hombre,0,trufa,€31.80
+Vernon,42,Castilla - La Mancha,22-06-22,hombre,1,sin relleno,€11.43
+Nola,40,Catalunya,11-07-22,mujer,0,nata,€30.96
+Portia,75,Cantabria,06-12-22,mujer,3,nata,€9.93
+Ginger,27,Principado de Asturias,30-04-22,hombre,1,nata,€38.76
+Damon,80,Melilla,26-02-22,mujer,2,mixto,€19.45
+Burton,35,Comunitat Valenciana,01-11-22,mujer,5,trufa,€46.53
+Giselle,99,La Rioja,16-08-22,hombre,3,nata,€21.65
+Miranda,91,Comunitat Valenciana,21-09-22,hombre,3,mixto,€22.00
+Dahlia,30,Aragón,14-01-22,hombre,3,sin relleno,€46.85
+Branden,79,Madrid,06-05-22,mujer,3,crema,€10.81
+Ray,16,Galicia,17-07-22,mujer,2,nata,€9.24
+Lionel,76,Navarra,21-07-22,mujer,0,crema,€19.95
+Calvin,33,Andalucía,29-01-22,hombre,2,trufa,€42.31
+Hyacinth,42,Castilla y León,03-12-22,hombre,3,trufa,€25.36
+Sacha,92,La Rioja,24-12-22,mujer,1,sin relleno,€24.93
+Hilary,39,Cantabria,18-07-22,mujer,3,sin relleno,€16.49
+Brianna,86,Euskadi,24-12-22,mujer,0,trufa,€25.59
+Sybil,47,Murcia,09-08-22,hombre,4,crema,€3.74
+Boris,36,Galicia,19-08-22,hombre,0,sin relleno,€5.35
+Bruce,36,Illes Balears,15-12-22,hombre,0,mixto,€28.45
+Kibo,62,Galicia,16-11-22,mujer,0,crema,€39.79
+Blake,59,Extremadura,25-06-22,hombre,1,nata,€32.74
+Leigh,77,Euskadi,03-08-22,mujer,1,crema,€49.32
+Maia,21,Cantabria,18-01-22,mujer,3,trufa,€26.02
+Brent,88,Madrid,30-12-22,hombre,5,mixto,€29.29
+Mikayla,89,Ceuta,08-06-22,mujer,3,mixto,€45.31
+Yael,70,La Rioja,01-03-22,mujer,2,crema,€25.84
+Duncan,41,Aragón,30-10-22,mujer,3,crema,€23.51
+Claudia,57,Andalucía,29-01-22,mujer,3,sin relleno,€21.63
+Brendan,50,La Rioja,22-05-22,mujer,4,crema,€1.09
+Galvin,63,Comunitat Valenciana,24-10-22,hombre,4,nata,€30.45
+Ashely,32,Principado de Asturias,20-08-22,hombre,5,trufa,€0.47
+Wayne,42,Castilla - La Mancha,18-07-22,hombre,3,crema,€28.19
+Rhoda,38,Extremadura,22-01-22,hombre,1,mixto,€41.21
+Daquan,73,Extremadura,18-06-22,mujer,2,nata,€17.89
+Chaney,26,Catalunya,04-07-22,mujer,5,crema,€1.44
+Hiram,65,Principado de Asturias,29-08-22,hombre,5,mixto,€32.47
+Thor,51,Catalunya,10-03-22,mujer,0,trufa,€26.05
+Rudyard,58,Melilla,30-09-22,hombre,0,nata,€25.90
+Merritt,97,Andalucía,07-03-22,mujer,5,mixto,€28.26
+Derek,29,Melilla,11-11-22,mujer,5,sin relleno,€43.85
+Melvin,64,Navarra,17-06-22,mujer,4,crema,€24.60
+Evan,39,La Rioja,21-09-22,hombre,1,trufa,€46.67
+Bryar,56,Navarra,11-05-22,mujer,5,trufa,€2.62
+Stephanie,77,Extremadura,11-08-22,mujer,2,trufa,€5.06
+Nina,60,Madrid,06-10-22,hombre,2,trufa,€22.49
+Katelyn,97,Melilla,19-08-22,mujer,3,nata,€31.24
+Tasha,56,Principado de Asturias,04-01-22,hombre,5,nata,€44.09
+Rogan,97,La Rioja,13-03-22,mujer,4,trufa,€24.49
+Samuel,96,Principado de Asturias,16-06-22,hombre,3,nata,€37.31
+Tanek,80,Comunitat Valenciana,28-03-22,hombre,0,mixto,€33.99
+Kermit,94,Andalucía,24-06-22,hombre,5,sin relleno,€21.69
+Carla,30,Comunitat Valenciana,19-09-22,hombre,0,trufa,€44.40
+Jameson,90,Ceuta,29-01-22,mujer,2,trufa,€47.99
+Kane,87,Canarias,27-02-22,hombre,0,nata,€9.79
+Britanni,85,Catalunya,05-04-22,mujer,2,mixto,€18.52
+Cruz,59,La Rioja,06-09-22,mujer,3,trufa,€11.19
+Hollee,32,La Rioja,14-09-22,hombre,0,trufa,€47.35
+Ulla,56,Cantabria,21-06-22,mujer,2,mixto,€28.57
+Karly,52,Cantabria,25-04-22,hombre,3,mixto,€25.82
+Reagan,53,Ceuta,26-04-22,hombre,5,trufa,€34.12
+Chantale,53,Extremadura,27-07-22,mujer,3,trufa,€28.18
+Cairo,52,Castilla - La Mancha,11-03-22,mujer,3,mixto,€40.58
+Oleg,73,Catalunya,20-06-22,hombre,0,trufa,€32.70
+Sierra,43,Galicia,06-06-22,mujer,1,crema,€24.01
+Amena,32,Castilla - La Mancha,11-08-22,mujer,4,crema,€32.22
+Inga,73,Navarra,18-11-22,hombre,1,nata,€15.74
+Harding,25,Castilla - La Mancha,15-07-22,mujer,2,crema,€34.18
+Madaline,17,Melilla,15-12-22,mujer,3,mixto,€41.24
+Farrah,84,Principado de Asturias,19-07-22,mujer,0,mixto,€33.61
+Amos,48,Andalucía,03-04-22,hombre,3,mixto,€30.35
+Griffith,57,Galicia,24-05-22,hombre,4,nata,€17.39
+Kerry,93,Euskadi,06-06-22,mujer,4,crema,€15.36
+Fitzgerald,35,Madrid,14-05-22,hombre,3,mixto,€47.14
+Roth,50,Canarias,10-06-22,mujer,0,crema,€10.50
+Lynn,19,Murcia,06-07-22,mujer,2,trufa,€31.35
+Alma,32,Galicia,09-02-22,hombre,1,mixto,€29.19
+Owen,21,Melilla,31-03-22,hombre,2,crema,€11.89
+Hop,64,Cantabria,12-08-22,hombre,1,nata,€15.17
+Rajah,76,Andalucía,15-09-22,hombre,3,sin relleno,€33.52
+Roth,88,Illes Balears,12-08-22,hombre,5,mixto,€44.25
+Marah,60,Ceuta,18-06-22,hombre,1,crema,€14.50
+Lev,82,Aragón,13-01-22,hombre,1,crema,€7.74
+Hammett,55,Murcia,17-09-22,mujer,5,mixto,€32.89
+Jackson,93,Navarra,24-10-22,hombre,4,crema,€9.20
+Delilah,18,Andalucía,14-10-22,hombre,2,mixto,€36.33
+Otto,23,Aragón,06-06-22,mujer,3,nata,€29.43
+Moses,90,Extremadura,29-05-22,mujer,4,crema,€25.34
+Mollie,21,Ceuta,13-10-22,hombre,4,sin relleno,€36.17
+Samantha,77,Madrid,13-12-22,mujer,3,trufa,€28.30
+Cleo,54,Castilla y León,02-01-22,mujer,4,mixto,€41.54
+Athena,65,Madrid,15-04-22,mujer,4,nata,€40.30
+Calista,82,Canarias,04-06-22,hombre,3,crema,€20.32
+Colorado,38,Illes Balears,15-11-22,hombre,2,nata,€46.84
+Piper,20,Aragón,09-01-22,mujer,3,nata,€2.82
+Alyssa,76,La Rioja,26-08-22,hombre,2,trufa,€47.91
+Adam,41,Castilla y León,15-02-22,mujer,1,nata,€31.81
+Uriel,52,Galicia,28-08-22,mujer,3,sin relleno,€17.61
+Randall,59,Melilla,09-08-22,hombre,0,crema,€46.00
+Bruce,67,Euskadi,25-02-22,mujer,4,crema,€27.36
+Robert,81,Aragón,31-12-22,mujer,4,trufa,€45.41
+Elijah,70,Murcia,26-06-22,hombre,5,trufa,€46.34
+Philip,88,Galicia,11-09-22,mujer,5,nata,€27.92
+Abbot,94,Aragón,27-03-22,mujer,2,sin relleno,€20.19
+Garrett,55,Catalunya,02-02-22,mujer,0,trufa,€26.32
+Leonard,34,Melilla,13-08-22,mujer,2,crema,€14.75
+Christen,65,Madrid,10-09-22,hombre,4,mixto,€13.29
+Chancellor,97,Navarra,20-07-22,hombre,4,trufa,€23.60
+Lillith,43,Euskadi,02-12-22,mujer,0,sin relleno,€6.80
+Yoko,87,Navarra,27-08-22,mujer,2,mixto,€18.47
+Jessica,94,Castilla y León,04-12-22,hombre,2,trufa,€7.00
+Erich,75,Ceuta,21-08-22,hombre,4,trufa,€23.96
+Daniel,77,Castilla y León,20-03-22,hombre,1,mixto,€35.45
+Montana,68,Catalunya,01-08-22,mujer,4,sin relleno,€37.24
+Duncan,42,Extremadura,18-07-22,hombre,1,sin relleno,€17.04
+Cynthia,38,Aragón,20-07-22,hombre,4,sin relleno,€27.50
+Stephanie,24,Aragón,06-01-22,mujer,0,mixto,€37.97
+Bruce,67,Navarra,18-01-22,hombre,4,crema,€16.85
+Kareem,51,Extremadura,19-06-22,hombre,1,trufa,€6.68
+Levi,23,Castilla - La Mancha,18-03-22,mujer,4,crema,€44.89
+Breanna,27,Canarias,29-03-22,mujer,3,nata,€32.64
+Kalia,76,Cantabria,28-01-22,hombre,2,mixto,€18.40
+Zephania,91,Principado de Asturias,03-01-22,mujer,2,trufa,€5.90
+Pearl,68,La Rioja,05-12-22,mujer,2,nata,€40.77
+Isabella,58,Castilla y León,25-07-22,hombre,5,sin relleno,€24.94
+Tad,30,Andalucía,05-08-22,hombre,1,nata,€37.56
+Ramona,34,Navarra,25-05-22,mujer,4,nata,€29.71
+Wang,50,Murcia,19-02-22,mujer,1,nata,€41.47
+Leah,32,Melilla,27-01-22,mujer,4,trufa,€17.68
+Ignacia,86,La Rioja,15-02-22,hombre,2,nata,€19.36
+Upton,43,Aragón,04-10-22,mujer,1,sin relleno,€43.77
+Rina,34,Comunitat Valenciana,18-12-22,hombre,5,nata,€0.75
+Chase,19,Castilla - La Mancha,06-01-22,hombre,3,trufa,€43.63
+Burke,74,Castilla - La Mancha,05-10-22,mujer,0,sin relleno,€29.97
+Lionel,65,Comunitat Valenciana,11-03-22,hombre,2,crema,€42.88
+Cody,36,Galicia,21-05-22,hombre,2,mixto,€18.47
+Leslie,27,Illes Balears,05-07-22,mujer,3,sin relleno,€12.16
+Dylan,92,Aragón,27-09-22,mujer,4,mixto,€35.40
+Lani,58,Extremadura,15-08-22,mujer,2,trufa,€23.90
+Connor,47,Melilla,20-03-22,hombre,1,mixto,€36.47
+Brynne,18,Melilla,03-09-22,hombre,1,sin relleno,€42.62
+Plato,39,Catalunya,18-09-22,mujer,3,trufa,€26.17
+Ivor,92,Canarias,18-11-22,mujer,4,nata,€4.02
+Hamish,81,Ceuta,04-12-22,mujer,4,nata,€49.27
+Gay,76,Madrid,28-08-22,mujer,5,mixto,€38.61
+Mechelle,35,Catalunya,26-02-22,hombre,3,sin relleno,€17.50
+Miranda,43,Illes Balears,23-06-22,mujer,2,mixto,€41.07
+Shelly,17,Principado de Asturias,28-09-22,hombre,5,sin relleno,€21.39
+Bo,49,Ceuta,10-01-22,hombre,2,sin relleno,€47.12
+Lesley,20,Principado de Asturias,26-03-22,mujer,1,nata,€39.36
+Upton,43,Madrid,20-05-22,mujer,1,trufa,€46.22
+Jerry,39,Andalucía,16-04-22,mujer,5,sin relleno,€3.19
+Karen,89,Galicia,19-10-22,hombre,2,trufa,€46.23
+Erasmus,73,Catalunya,27-04-22,mujer,3,sin relleno,€25.25
+Teegan,77,Catalunya,06-10-22,mujer,4,crema,€15.81
+Elton,47,Cantabria,15-04-22,hombre,3,mixto,€5.02
+Samantha,26,Euskadi,18-12-22,hombre,5,nata,€0.20
+Erica,75,Ceuta,16-03-22,mujer,3,crema,€30.11
+Cody,34,Illes Balears,21-10-22,mujer,4,crema,€48.16
+Evelyn,70,Extremadura,06-06-22,mujer,2,crema,€8.34
+Renee,16,Andalucía,08-11-22,mujer,2,sin relleno,€18.46
+Rudyard,38,Ceuta,14-05-22,mujer,2,mixto,€33.72
+Darius,79,Cantabria,16-01-22,mujer,4,nata,€7.66
+Nita,49,Extremadura,26-02-22,mujer,4,nata,€37.98
+Leila,87,Galicia,26-07-22,hombre,3,trufa,€31.88
+Maite,58,Melilla,28-02-22,mujer,2,nata,€22.18
+Germane,67,Castilla - La Mancha,27-11-22,hombre,3,nata,€38.51
+Regina,60,Ceuta,26-06-22,mujer,3,crema,€14.07
+Idola,87,Principado de Asturias,07-03-22,mujer,3,mixto,€20.84
+Kieran,96,Cantabria,08-07-22,mujer,5,sin relleno,€29.71
+Lacey,97,Andalucía,09-08-22,hombre,0,crema,€16.85
+Erich,16,Andalucía,06-01-22,hombre,1,trufa,€10.69
+Ross,48,Madrid,11-03-22,mujer,3,nata,€48.18
+Kaseem,39,Melilla,14-10-22,hombre,5,nata,€8.50
+Dennis,43,Andalucía,13-10-22,hombre,4,crema,€0.01
+Whoopi,65,Canarias,25-04-22,mujer,2,trufa,€12.43
+Karen,25,Illes Balears,30-09-22,mujer,3,crema,€7.98
+August,80,Galicia,20-09-22,hombre,1,crema,€18.35
+Shelley,88,La Rioja,17-01-22,mujer,4,trufa,€30.15
+Daryl,49,Castilla - La Mancha,06-04-22,hombre,2,nata,€9.50
+Peter,47,Aragón,30-05-22,hombre,1,mixto,€36.70
+Madaline,98,Aragón,26-04-22,mujer,2,crema,€46.99
+Ella,23,Principado de Asturias,11-01-22,mujer,2,sin relleno,€8.34
+Connor,49,La Rioja,22-11-22,hombre,2,sin relleno,€16.20
+Germaine,95,Euskadi,25-06-22,mujer,3,sin relleno,€19.02
+Lareina,74,Navarra,10-03-22,mujer,1,crema,€41.58
+Jordan,78,Aragón,23-09-22,hombre,5,trufa,€43.53
+Ira,45,Aragón,31-01-22,mujer,1,crema,€0.60
+Leonard,83,Castilla - La Mancha,17-12-22,hombre,2,trufa,€32.87
+Laurel,26,Catalunya,28-05-22,mujer,3,trufa,€28.31
+Lila,76,Ceuta,03-10-22,mujer,1,trufa,€34.93
+Phillip,58,Cantabria,26-08-22,hombre,2,sin relleno,€14.15
+Lucius,19,Illes Balears,03-10-22,hombre,0,mixto,€1.62
+Bruno,40,Aragón,30-04-22,mujer,1,sin relleno,€43.54
+Hadley,76,Aragón,30-07-22,hombre,3,mixto,€31.26
+Keith,88,Castilla y León,19-05-22,hombre,2,nata,€34.21
+Moses,66,Euskadi,26-04-22,mujer,5,mixto,€10.91
+Gabriel,94,Madrid,23-10-22,hombre,4,crema,€48.06
+Grady,40,Cantabria,17-01-22,hombre,4,trufa,€13.86
+Erich,90,Ceuta,22-09-22,hombre,2,mixto,€35.35
+Ignacia,78,Murcia,30-12-22,hombre,4,mixto,€40.89
+Quail,18,Euskadi,05-09-22,mujer,0,nata,€9.19
+Baker,64,Murcia,04-06-22,hombre,3,nata,€42.23
+Libby,46,Comunitat Valenciana,07-03-22,hombre,0,sin relleno,€38.14
+Maris,43,Illes Balears,02-09-22,hombre,1,crema,€29.79
+Drake,74,Comunitat Valenciana,04-06-22,mujer,3,sin relleno,€32.06
+Jessamine,26,Ceuta,09-08-22,mujer,2,mixto,€18.61
+Carson,97,Cantabria,07-04-22,hombre,0,crema,€36.83
+Signe,65,Castilla - La Mancha,29-09-22,hombre,1,mixto,€11.20
+Daria,35,Aragón,22-02-22,hombre,4,nata,€31.01
+Logan,48,Comunitat Valenciana,02-01-22,hombre,3,mixto,€35.43
+Clayton,47,Melilla,15-12-22,hombre,1,mixto,€11.10
+Joshua,23,Extremadura,04-12-22,hombre,2,trufa,€48.80
+Caryn,34,Cantabria,17-06-22,mujer,4,trufa,€29.62
+Garth,23,Madrid,18-04-22,hombre,0,sin relleno,€8.79
+Uriah,34,Castilla y León,23-03-22,hombre,4,trufa,€33.39
+Randall,54,Castilla - La Mancha,07-06-22,mujer,2,mixto,€41.14
+Magee,83,Comunitat Valenciana,25-06-22,mujer,0,sin relleno,€36.49
+Yasir,39,Navarra,22-09-22,hombre,3,trufa,€37.24
+Colin,78,Illes Balears,20-09-22,mujer,1,mixto,€21.98
+Colby,15,Extremadura,21-08-22,mujer,3,mixto,€18.29
+Elliott,48,La Rioja,22-04-22,mujer,2,crema,€8.84
+Amos,92,Cantabria,24-03-22,hombre,4,crema,€47.93
+Rhea,72,Catalunya,13-08-22,hombre,2,mixto,€14.92
+Carly,80,Melilla,14-08-22,hombre,1,trufa,€32.47
+Simon,95,Canarias,07-10-22,mujer,1,mixto,€35.71
+Prescott,99,Galicia,12-02-22,hombre,4,nata,€16.62
+Aristotle,65,Ceuta,25-08-22,mujer,4,nata,€16.51
+Hilel,49,Cantabria,17-10-22,hombre,2,sin relleno,€36.51
+Britanney,57,Catalunya,01-02-22,hombre,1,nata,€6.11
+Kylan,29,Melilla,10-11-22,hombre,3,trufa,€17.41
+Geraldine,90,Murcia,26-12-22,hombre,4,sin relleno,€36.62
+Kay,28,Ceuta,27-04-22,hombre,1,trufa,€34.17
+Jillian,84,Castilla - La Mancha,18-11-22,mujer,3,nata,€28.89
+Elmo,26,Cantabria,17-04-22,mujer,3,crema,€28.81
+Orlando,40,Madrid,16-06-22,hombre,2,trufa,€25.34
+Peter,29,Catalunya,21-05-22,mujer,1,crema,€8.64
+Audra,33,Navarra,05-01-22,mujer,1,mixto,€0.70
+Briar,21,Navarra,26-10-22,hombre,0,sin relleno,€30.77
+Reese,34,Illes Balears,04-01-22,mujer,5,crema,€31.53
+Emily,35,Castilla y León,09-12-22,hombre,1,sin relleno,€8.79
+Ivana,60,Andalucía,23-01-22,mujer,4,crema,€14.56
+Chase,59,Melilla,28-03-22,mujer,4,nata,€42.69
+Cameron,20,Euskadi,29-11-22,mujer,3,trufa,€39.52
+Lev,72,Andalucía,01-03-22,mujer,2,trufa,€8.13
+Yoshio,24,Comunitat Valenciana,26-10-22,hombre,4,sin relleno,€38.88
+Melvin,85,Ceuta,02-12-22,hombre,2,sin relleno,€34.54
+Tiger,36,Canarias,05-11-22,hombre,4,nata,€22.76
+Nathan,82,Navarra,26-07-22,mujer,2,sin relleno,€45.50
+Beau,20,Navarra,23-06-22,hombre,4,trufa,€47.43
+Madeson,71,Castilla - La Mancha,24-11-22,hombre,5,mixto,€46.39
+Perry,48,Illes Balears,25-06-22,mujer,3,trufa,€29.07
+Laura,69,Andalucía,19-11-22,mujer,3,trufa,€32.25
+Boris,74,Andalucía,06-03-22,hombre,2,mixto,€28.60
+Whitney,68,Illes Balears,28-01-22,mujer,3,nata,€29.91
+Emily,31,Euskadi,14-04-22,hombre,3,trufa,€17.82
+Reese,77,Castilla y León,10-10-22,hombre,3,mixto,€40.78
+Kareem,63,Canarias,14-10-22,hombre,2,crema,€41.68
+Alvin,95,Andalucía,22-03-22,mujer,4,mixto,€2.97
+Jolene,75,Catalunya,30-08-22,mujer,2,sin relleno,€6.33
+Steel,60,Catalunya,17-10-22,hombre,5,sin relleno,€47.20
+Michelle,20,Comunitat Valenciana,28-04-22,hombre,4,crema,€34.01
+Sawyer,54,Castilla - La Mancha,04-02-22,mujer,2,crema,€26.08
+Gannon,27,Comunitat Valenciana,04-01-22,mujer,3,sin relleno,€18.72
+Heidi,18,Euskadi,05-08-22,mujer,1,nata,€31.39
+Xanthus,67,Principado de Asturias,07-10-22,mujer,1,mixto,€27.43
+Wesley,88,Cantabria,28-03-22,hombre,2,nata,€24.93
+Bryar,61,Extremadura,26-11-22,hombre,1,nata,€4.22
+Rose,99,Andalucía,29-09-22,mujer,2,nata,€43.51
+Carter,21,Cantabria,20-04-22,mujer,5,nata,€3.70
+Harper,52,Catalunya,23-05-22,hombre,0,crema,€21.22
+Colton,52,Principado de Asturias,19-08-22,mujer,5,nata,€38.75
+Rana,83,Navarra,06-04-22,hombre,5,nata,€36.94
+Carlos,63,Principado de Asturias,10-10-22,hombre,0,sin relleno,€8.68
+Tara,25,Extremadura,18-05-22,hombre,1,crema,€32.12
+Kasper,46,Navarra,22-04-22,mujer,3,crema,€37.57
+Scarlet,39,Euskadi,06-05-22,hombre,0,crema,€17.40
+Heather,93,Andalucía,01-07-22,mujer,3,crema,€4.60
+Francis,61,Euskadi,31-12-22,mujer,0,mixto,€30.40
+Mara,25,Canarias,09-04-22,mujer,2,mixto,€23.80
+Bryar,95,Castilla y León,15-08-22,mujer,4,trufa,€43.18
+Galvin,47,Castilla - La Mancha,24-10-22,hombre,4,nata,€17.04
+Aurelia,60,Melilla,16-03-22,mujer,2,mixto,€40.94
+Clare,32,Castilla - La Mancha,16-06-22,mujer,5,trufa,€16.61
+Benedict,92,Andalucía,04-04-22,mujer,4,mixto,€36.06
+Kieran,75,Euskadi,09-04-22,mujer,5,crema,€35.83
+Brody,17,Cantabria,07-02-22,mujer,1,crema,€43.84
+Keane,21,Castilla y León,01-07-22,hombre,3,nata,€32.98
+Maxwell,85,Murcia,29-10-22,hombre,2,sin relleno,€35.58
+Hillary,60,La Rioja,14-01-22,mujer,4,nata,€15.63
+Lane,17,Galicia,05-09-22,hombre,5,sin relleno,€30.17
+August,63,Principado de Asturias,08-12-22,mujer,3,nata,€14.90
+Callie,55,Comunitat Valenciana,03-08-22,mujer,4,trufa,€45.58
+Tyrone,47,Illes Balears,17-07-22,mujer,4,trufa,€8.41
+Stone,53,Andalucía,08-03-22,mujer,4,crema,€46.28
+Stacy,65,Comunitat Valenciana,16-08-22,hombre,4,nata,€26.36
+Erasmus,68,Comunitat Valenciana,26-09-22,hombre,3,mixto,€17.39
+Fletcher,54,Castilla - La Mancha,07-09-22,mujer,3,trufa,€34.10
+Kelly,66,Castilla - La Mancha,28-05-22,hombre,2,nata,€14.07
+Rina,24,Extremadura,04-10-22,hombre,3,trufa,€2.99
+Yael,66,Catalunya,26-05-22,hombre,2,trufa,€24.53
+Beverly,80,Melilla,16-06-22,mujer,4,sin relleno,€3.83
+Karyn,29,Ceuta,17-11-22,mujer,3,sin relleno,€19.30
+Kasper,22,Ceuta,10-11-22,hombre,2,crema,€9.71
+Seth,96,Aragón,24-02-22,hombre,4,trufa,€21.34
+Adria,90,Illes Balears,13-10-22,mujer,5,mixto,€35.57
+Rooney,39,Murcia,28-02-22,mujer,1,crema,€35.53
+Illiana,96,Galicia,18-12-22,hombre,2,sin relleno,€23.20
+Avye,89,Principado de Asturias,23-09-22,hombre,5,nata,€18.30
+Juliet,68,Ceuta,15-09-22,mujer,0,sin relleno,€29.91
+Dominic,69,Extremadura,27-05-22,hombre,0,nata,€1.15
+Thomas,99,Euskadi,07-07-22,hombre,5,nata,€43.83
+Ursa,80,Madrid,17-10-22,hombre,0,nata,€3.37
+Harrison,17,Aragón,06-12-22,hombre,4,crema,€39.47
+Kylee,78,Illes Balears,02-10-22,hombre,0,sin relleno,€32.52
+Malachi,62,Illes Balears,23-07-22,hombre,2,mixto,€19.22
+Britanni,84,Madrid,17-10-22,mujer,5,mixto,€11.44
+Bertha,52,Illes Balears,20-02-22,hombre,4,trufa,€11.78
+Kelly,40,Murcia,18-09-22,hombre,4,nata,€14.46
+Nehru,16,Castilla - La Mancha,16-06-22,mujer,4,sin relleno,€39.00
+Evangeline,72,Castilla y León,17-08-22,mujer,5,trufa,€9.81
+Dolan,46,Galicia,29-11-22,hombre,4,sin relleno,€35.35
+Geraldine,42,Navarra,03-07-22,hombre,1,trufa,€27.89
+Portia,81,Madrid,09-10-22,hombre,3,mixto,€19.08
+Stacy,62,Andalucía,05-03-22,hombre,2,mixto,€15.64
+Cailin,49,Cantabria,14-09-22,hombre,1,mixto,€6.17
+Kuame,65,Castilla y León,03-04-22,mujer,4,crema,€38.18
+Kevin,55,Principado de Asturias,02-10-22,mujer,1,mixto,€23.66
+Ivor,87,Comunitat Valenciana,03-04-22,mujer,5,trufa,€8.78
+Rose,52,Navarra,24-01-22,hombre,3,mixto,€49.76
+Mia,87,Madrid,18-03-22,hombre,0,mixto,€43.60
+Jason,99,La Rioja,04-06-22,hombre,1,mixto,€7.59
+Katelyn,46,Principado de Asturias,14-10-22,hombre,0,sin relleno,€5.74
+Kenyon,68,La Rioja,24-11-22,hombre,3,mixto,€23.27
+Grady,41,Cantabria,15-10-22,hombre,5,mixto,€12.43
+Jakeem,85,Cantabria,16-06-22,hombre,5,mixto,€40.99
+Jena,42,Comunitat Valenciana,21-10-22,hombre,0,nata,€14.46
+Darrel,96,Canarias,10-10-22,hombre,4,trufa,€4.39
+Jorden,55,Navarra,19-08-22,mujer,3,crema,€11.40
+Rhiannon,77,Castilla y León,31-01-22,hombre,4,nata,€37.37
+Lev,81,Andalucía,30-05-22,hombre,5,nata,€8.28
+Vaughan,78,Ceuta,25-01-22,mujer,3,trufa,€22.80
+Nolan,94,Navarra,17-05-22,hombre,5,crema,€7.76
+Candice,85,Castilla y León,19-07-22,hombre,0,mixto,€22.05
+Stacy,42,Aragón,06-03-22,mujer,3,crema,€21.73
+Cyrus,86,Castilla y León,28-07-22,hombre,4,trufa,€21.68
+Laurel,75,Comunitat Valenciana,05-06-22,hombre,1,sin relleno,€12.22
+Giselle,68,Galicia,06-09-22,hombre,4,mixto,€40.75
+Alexandra,51,Melilla,15-06-22,mujer,3,crema,€48.98
+Martin,80,Cantabria,19-03-22,mujer,1,nata,€28.34
+Beatrice,64,Principado de Asturias,20-05-22,hombre,5,sin relleno,€29.42
+Leslie,78,Navarra,28-06-22,mujer,0,sin relleno,€26.24
+Clark,56,Melilla,11-08-22,mujer,4,mixto,€13.23
+Christen,70,Cantabria,10-01-22,mujer,2,trufa,€32.52
+Carl,52,Madrid,27-12-22,mujer,5,nata,€16.31
+Teagan,81,Murcia,01-10-22,mujer,1,sin relleno,€39.06
+Shad,41,Canarias,28-11-22,hombre,4,trufa,€47.23
+Amena,52,La Rioja,28-04-22,mujer,4,sin relleno,€42.47
+Lewis,74,Principado de Asturias,16-10-22,mujer,3,crema,€49.41
+Yen,42,La Rioja,28-06-22,hombre,5,sin relleno,€42.87
+Reuben,16,Cantabria,06-01-22,mujer,4,crema,€13.10
+Jane,79,Galicia,03-02-22,hombre,4,trufa,€19.77
+Gwendolyn,92,Navarra,04-09-22,mujer,2,sin relleno,€24.85
+Camille,92,Extremadura,29-04-22,mujer,1,crema,€40.94
+Murphy,48,Castilla - La Mancha,26-03-22,hombre,4,crema,€15.28
+Salvador,77,Illes Balears,19-04-22,hombre,5,trufa,€1.99
+Andrew,92,Melilla,03-09-22,hombre,3,mixto,€7.11
+Brennan,21,La Rioja,17-02-22,mujer,1,sin relleno,€17.41
+Abra,24,Murcia,15-03-22,mujer,3,crema,€9.44
+Sawyer,94,Comunitat Valenciana,04-03-22,hombre,0,trufa,€20.65
+Silas,53,Illes Balears,17-05-22,mujer,0,crema,€18.68
+Rosalyn,68,Melilla,10-08-22,hombre,2,crema,€23.08
+Jameson,30,Galicia,31-03-22,mujer,0,mixto,€5.40
+Quintessa,84,La Rioja,09-06-22,hombre,0,sin relleno,€21.46
+Barclay,75,Castilla - La Mancha,26-03-22,hombre,5,nata,€44.97
+Odysseus,64,Castilla - La Mancha,18-09-22,mujer,2,trufa,€42.10
+Prescott,36,Andalucía,15-01-22,hombre,3,crema,€1.31
+Odysseus,72,Extremadura,21-07-22,mujer,2,trufa,€12.47
+Nadine,20,Illes Balears,19-05-22,mujer,2,mixto,€10.78
+Darrel,94,Catalunya,08-08-22,mujer,1,trufa,€43.15
+Barclay,93,Principado de Asturias,01-01-22,mujer,4,trufa,€3.28
+Orson,39,Ceuta,09-09-22,hombre,3,mixto,€21.68
+Keith,57,Aragón,08-06-22,hombre,0,crema,€4.12
+Amanda,54,Extremadura,20-05-22,mujer,5,mixto,€16.91
+Salvador,35,Extremadura,18-01-22,mujer,4,trufa,€14.73
+Ross,38,Euskadi,26-02-22,mujer,1,sin relleno,€11.74
+Kadeem,94,Comunitat Valenciana,19-10-22,mujer,4,sin relleno,€11.91
+Hanae,29,Euskadi,11-07-22,hombre,3,sin relleno,€1.36
+Erica,28,Andalucía,16-11-22,hombre,1,mixto,€23.50
+Brielle,18,Melilla,22-11-22,hombre,4,trufa,€9.09
+Daphne,72,Castilla y León,11-11-22,mujer,3,sin relleno,€32.98
+Veda,65,Extremadura,26-09-22,hombre,4,crema,€2.38
+Wang,72,Aragón,06-04-22,mujer,1,nata,€31.12
+Gage,47,Illes Balears,27-02-22,mujer,3,crema,€47.48
+Stacy,82,Illes Balears,06-02-22,hombre,3,mixto,€9.31
+Gwendolyn,98,Ceuta,11-08-22,mujer,3,trufa,€27.45
+Minerva,70,La Rioja,15-08-22,hombre,3,mixto,€18.09
+Yoshio,61,Castilla y León,06-02-22,hombre,4,crema,€16.91
+Quail,55,Castilla y León,06-03-22,mujer,4,trufa,€44.54
+Felicia,24,Aragón,23-06-22,hombre,5,nata,€36.92
+Avram,20,Melilla,11-08-22,hombre,0,mixto,€6.27
+Travis,27,Euskadi,09-12-22,hombre,1,nata,€4.95
+Scott,96,Murcia,26-10-22,hombre,4,nata,€11.44
+Cleo,61,Illes Balears,01-10-22,mujer,2,sin relleno,€0.78
+Zahir,16,Murcia,20-09-22,hombre,3,nata,€0.73
+Dean,53,La Rioja,18-09-22,mujer,0,mixto,€3.84
+Avram,39,Navarra,09-08-22,hombre,0,trufa,€12.68
+Tatyana,31,Melilla,03-01-22,mujer,4,trufa,€16.11
+Ciaran,43,Principado de Asturias,21-12-22,hombre,3,trufa,€35.86
+Carolyn,34,Murcia,02-06-22,hombre,2,sin relleno,€37.31
+Ross,52,Andalucía,13-10-22,hombre,4,sin relleno,€28.57
+Pamela,56,Canarias,26-11-22,mujer,3,sin relleno,€11.20
+Derek,59,Comunitat Valenciana,16-01-22,mujer,4,trufa,€47.77
+Emerald,91,Extremadura,26-03-22,hombre,5,crema,€28.95
+August,48,Cantabria,18-01-22,hombre,2,trufa,€25.54
+Rashad,57,Galicia,13-09-22,hombre,1,mixto,€9.82
+Winifred,82,Aragón,26-09-22,hombre,1,trufa,€17.06
+Frances,82,Navarra,22-01-22,mujer,5,nata,€31.54
+Dean,79,Canarias,25-08-22,hombre,1,nata,€40.41
+Herrod,25,Illes Balears,23-08-22,mujer,5,crema,€45.18
+Sawyer,19,Euskadi,25-09-22,mujer,1,nata,€40.25
+Anthony,73,Ceuta,30-11-22,hombre,3,sin relleno,€28.40
+Patrick,30,Catalunya,16-10-22,mujer,2,mixto,€43.10
+August,72,Euskadi,02-12-22,hombre,2,trufa,€18.93
+Ray,57,Catalunya,31-10-22,hombre,3,trufa,€4.49
+Derek,92,Aragón,13-12-22,mujer,2,trufa,€10.86
+Odessa,66,Castilla - La Mancha,09-09-22,mujer,4,nata,€22.26
+Zane,35,Aragón,22-08-22,hombre,1,trufa,€41.65
+Jillian,88,Andalucía,13-09-22,hombre,4,nata,€12.96
+Cruz,43,Principado de Asturias,17-04-22,mujer,2,sin relleno,€8.74
+Ezekiel,20,Principado de Asturias,02-06-22,hombre,3,sin relleno,€49.79
+Briar,19,Aragón,16-10-22,mujer,3,trufa,€30.39
+Curran,83,Andalucía,15-02-22,hombre,1,mixto,€12.66
+Lesley,30,La Rioja,30-12-22,mujer,3,crema,€25.27
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Mariquita,20,Comunitat Valenciana,05-01-22,mujer,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Jorge,20,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Ignacio,15,Comunitat Valenciana,05-01-22,hombre,2,crema,€12.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,04-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Maria,52,Comunitat Valenciana,05-01-22,mujer,2,sin relleno,€8.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
+Mariquita,20,Comunitat Valenciana,06-01-22,mujer,1,crema,€12.50
+Jorge,20,Comunitat Valenciana,06-01-22,hombre,1,crema,€12.50
